@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Listen </h2>
-            <p>Podcasts I&#39;ve have been on</p>
+            <p>Podcasts I &#39;ve been on</p>
           </a>
 
           <a href="https://github.com/enaughton" className={styles.card}>
