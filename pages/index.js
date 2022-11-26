@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Listen </h2>
-            <p>Podcasts I've been on</p>
+            <p>Podcasts I&#39;ve have been on</p>
           </a>
 
           <a href="https://github.com/enaughton" className={styles.card}>
@@ -55,12 +55,7 @@ export default function Home() {
         >
           Powered by{" "}
           <span className={styles.logo}>
-            <Image
-              src="/vercel.svg"
-              alt="Twitter Logo"
-              width={72}
-              height={16}
-            />
+            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
         </a>
       </footer>
