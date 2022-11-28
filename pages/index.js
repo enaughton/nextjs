@@ -32,7 +32,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>Listen </h2>
-            <p>Podcasts I &#39;ve been on</p>
+            <p>Podcasts I&#39;ve been on</p>
           </a>
           <a
             href="mailto:enaughton5@gmail.com"
