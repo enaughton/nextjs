@@ -67,13 +67,6 @@ export default function Home() {
             <h2>Community</h2>
             <p>Join CoderDads</p>
           </a>
-          <a
-            href="https://www.speakpipe.com/emmettnaughton"
-            className={styles.card}
-          >
-            <h2>Ask</h2>
-            <p>Ask me a Question </p>
-          </a>
         </div>
       </main>
 
