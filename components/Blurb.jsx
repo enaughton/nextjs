@@ -5,8 +5,8 @@ export default function Blurb() {
         Emmett is a software engineer with over five years of experience who
         loves building incredible user experiences. He started in the world of
         ecommerce — working with organziations such as Govalo, ecommerce
-        ecostystem, having worked with startups and shop merchants to bring
-        their products online.
+        ecosystem, having worked with startups and shop merchants to bring their
+        products online.
       </p>
 
       <p>
